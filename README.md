@@ -1,5 +1,6 @@
 # Samuel E3-Clase Klipper-Backup 💾 
 Klipper backup for Modified Ender 3 Klipper Machine
+
 Backup Klipper para Maquina Ender 3 con Klipper Modificada
 
 Installed mods:
@@ -24,6 +25,7 @@ MESHING/PURGING: KAMP
 
 MACROS:
 Categorized Macros Folder /Macros
+
 Un-Categorized Macros file macros-sin-categoria.cfg
 
 SCREWS MEASUREMENTS FILE(SCREW_TILT_ADJUST): tornillos
