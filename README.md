@@ -6,14 +6,21 @@ Backup Klipper para Maquina Ender 3 con Klipper Modificada
 Installed mods:
 
 MB: BTT Manta E3EZ
+
 MCU: BTT CB1
+
 SCREEN: BTT TFT Screen
+
 DRIVERS: EZ2209
 
 TOOLHEAD: Apogee Toolhead
+
 EXTRUDER: LDO Orbiter v2
+
 HOTEND: DRAGONFLY BMS
+
 ABL: Creality CR-Touch
+
 FILAMENT SENSOR: LDO Smart Orbiter Sensor
 
 HOMING:
@@ -24,6 +31,7 @@ Z:ABL
 MESHING/PURGING: KAMP
 
 MACROS:
+
 Categorized Macros Folder /Macros
 
 Un-Categorized Macros file macros-sin-categoria.cfg
